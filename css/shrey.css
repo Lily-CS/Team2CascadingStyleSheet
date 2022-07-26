@@ -1,0 +1,15 @@
+body > h1 {
+    background: rgb(236, 233, 233);
+    color: rgb(122, 70, 70);
+    padding: 20px;
+    margin: 20px;
+  }
+  h1 {
+    text-align: center;
+  }
+  hr {
+    background: rgb(179, 20, 20);
+    color: rgb(72, 23, 187);
+    padding: 2px;
+    margin: 2px;
+  }
