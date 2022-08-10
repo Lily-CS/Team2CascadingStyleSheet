@@ -3,14 +3,50 @@ body > h1 {
     color: rgb(122, 70, 70);
     padding: 20px;
     margin: 20px;
-  }
-  h1 {
     text-align: center;
   }
-  hr {
-    background: rgb(179, 20, 20);
-    color: rgb(72, 23, 187);
-    padding: 2px;
-    margin: 2px;
+
+  body > h2 { 
+    background: grey;
+    color: rgb(255, 255, 255);
+    text-align: center;
+
   }
+.learning:hover {
+    opacity: 100%;
+  }
+.learning {
+  background: rgb(97, 97, 105);
+}
+.learning {
+  
+background-color: rgb(236, 236, 236);
+padding: 20px;
+margin: 20px;
+border: 3px solid rgb(30, 18, 202);
+border-radius: 15px;
+margin-left: auto;
+margin-right: auto;
+width: 80%;
+max-width: 900px;
+overflow: auto;
+box-shadow: 5px 5px 5px;
+}
+.list {
+  
+background-color: rgb(236, 236, 236);
+padding: 20px;
+margin: 20px;
+border: 3px solid rgb(30, 18, 202);
+border-radius: 15px;
+margin-left: auto;
+margin-right: auto;
+width: 80%;
+max-width: 900px;
+overflow: auto;
+box-shadow: 5px 5px 5px;
+}
+
+
+
   
