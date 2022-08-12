@@ -1,15 +1,136 @@
 body > h1 {
     background: rgb(236, 233, 233);
-    color: rgb(122, 70, 70);
+    color: rgb(136, 43, 43);
     padding: 20px;
     margin: 20px;
-  }
-  h1 {
     text-align: center;
+    
+ 
+    border-radius: 60px;
+    
   }
-  hr {
-    background: rgb(179, 20, 20);
-    color: rgb(72, 23, 187);
-    padding: 2px;
-    margin: 2px;
+  .purpose {
+    outline-style: dotted;
+    color: rgb(236, 233, 233);
+    margin: 20px;
+    padding: 3px;
+    border-radius: 10px;
+    border: 5px dotted rgb(30, 18, 202);
+    
+    
   }
+  p.dotted {outline-style: dotted;}
+
+
+
+
+  body > h2 { 
+    background: rgb(30, 18, 202);
+    color: rgb(136, 43, 43);
+    text-align: center;
+    outline-style: outset;
+    padding: 10px;
+    margin: 25px;
+    border-radius: 40px;
+   border: 8px outset rgb(153, 30, 30);
+    
+    
+
+  }
+  
+
+.learning {
+  
+background-color: rgb(136, 43, 43);
+padding: 20px;
+margin: 20px;
+border: 3px solid rgb(30, 18, 202);
+border-radius: 15px;
+margin-left: auto;
+margin-right: auto;
+width: 80%;
+max-width: 900px;
+overflow: auto;
+box-shadow: 5px 5px 5px;
+}
+h4::first-line {color:blue;}
+.list {
+  
+background-color: rgb(136, 43, 43);
+padding: 20px;
+margin: 20px;
+border: 3px solid rgb(30, 18, 202);
+border-radius: 15px;
+margin-left: auto;
+margin-right: auto;
+width: 80%;
+max-width: 900px;
+overflow: auto;
+box-shadow: 5px 5px 5px;
+}
+li {color: rgb(233, 234, 236);
+}
+ol {color: rgb(233, 234, 236);}
+.a {
+  
+  background-color: rgb(136, 43, 43);
+  padding: 20px;
+  margin: 20px;
+  border: 3px solid rgb(30, 18, 202);
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  max-width: 900px;
+  overflow: auto;
+  box-shadow: 5px 5px 5px;
+  }
+  .images {
+    background-color: rgb(136, 43, 43);
+    padding: 20px;
+    margin: 20px;
+    border: 3px solid rgb(30, 18, 202);
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    max-width: 900px;
+    overflow: auto;
+    box-shadow: 5px 5px 5px;
+    }
+    tr {color: rgb(233, 234, 236);}
+    p {color: rgb(233, 234, 236);}
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+    
+  }
+  .table {
+  
+    background-color: rgb(136, 43, 43);
+    padding: 20px;
+    margin: 20px;
+    border: 3px solid rgb(30, 18, 202);
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    max-width: 900px;
+    overflow: auto;
+    box-shadow: 5px 5px 5px;
+    }
+    td {
+      text-align: center;
+    }
+  
+ 
+    
+
+  
+  
+
+
+
+  
