@@ -96,6 +96,10 @@ ol {color: rgb(233, 234, 236);}
   box-shadow: 5px 5px 5px;
 
   }
+  #bullets {
+    list-style-type: circle;
+  
+  }
   .list:hover {background-color: rgb(103, 103, 114);}
   .a:hover {background-color: rgb(103, 103, 114);}
   .images {
