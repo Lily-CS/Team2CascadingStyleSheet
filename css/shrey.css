@@ -156,6 +156,7 @@ ol {color: rgb(233, 234, 236);}
       background-color: rgb(30, 18, 202);
       color: white;
     }
+
     
    
 #Welcome {
@@ -176,6 +177,10 @@ img {
 }
 img:hover {
   box-shadow: 0 0 5px 5px rgba(30, 18, 202);
+}
+
+table {
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 
